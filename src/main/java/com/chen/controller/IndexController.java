@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class IndexController {
     @RequestMapping(value = "/index")
     public String getAllUser(){
-        return "index";//test
+        return "index";//test2
     }
 	
 	
